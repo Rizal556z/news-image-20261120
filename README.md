@@ -8,15 +8,14 @@ Entry for the [make.fun bounty "Sum up 20 November's world news in one image"](h
 
 ## The image
 
-A newspaper front page for **Friday, 20 November 2026**, leading with the
-Iran war (cost $48.3 billion and rising) and the Strait of Hormuz oil
-story (Brent ~$91), with the day's other top stories readable below it:
-
-- Kyiv struck overnight (Russia's strike on the capital)
-- ICJ rules 9–6 that Myanmar committed genocide against the Rohingya
-- Denmark's parliament approves the Greenland–US security pact 109–0
-- NYC Mayor Mamdani announces Rikers Island will close by 2032
-- US Senate rejects the war-powers resolution 51–48
+A dense one-page news poster for **Friday, 20 November 2026** — "ONE DAY
+OF WORLD NEWS, ONE PICTURE", 33 stories across 7 regions — leading with
+Russia's mass strike on Kyiv (3 bridges hit, 111 missiles, at least 9
+killed), the AI market rout (S&P 500 −3.7%, Nasdaq −5.3%, Taiwan −6.2%)
+and Cyclone Akvan hitting Odisha (372,000 evacuated, no deaths reported),
+with a UTC timeline, a numbers strip, a 10-story grid, a world map and a
+numbered list of stories 14–33 below them. Round 2 rebuilds the round-1
+front page as this denser poster, from the same day's news.
 
 ## How it works
 
